@@ -2,7 +2,7 @@
 
 Mathematics MSci (First Class) from the University of Bristol. I have worked on machine learning across
 **speech, NLP and computer vision** — transformer fine-tuning, model evaluation methodology, and
-probabilistic modelling.
+probabilistic modelling. I have also worked on agentic development and agent evaluation. 
 
 ### Selected work
 
