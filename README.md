@@ -1,12 +1,8 @@
 # Youssef Othman
 
-Mathematics MSci (First Class) from the University of Bristol. I work on machine learning across
+Mathematics MSci (First Class) from the University of Bristol. I have worked on machine learning across
 **speech, NLP and computer vision** — transformer fine-tuning, model evaluation methodology, and
 probabilistic modelling.
-
-Currently a Machine Learning Intern at Scriba Technologies, working on ASR and text-segmentation
-pipelines for long-form meeting audio (NVIDIA NeMo, punctuation restoration, SaT) and fine-tuning
-encoder models for discourse-boundary detection.
 
 ### Selected work
 
